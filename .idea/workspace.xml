@@ -2,575 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc29edbd-5577-4290-bcf3-99a1e914177b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/MacOS/Autoupdate" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/PkgInfo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/AppIcon.icns" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/SUStatus.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/ar.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/ca.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/cs.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/da.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/de.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/el.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/en.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/es.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/fi.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/fr.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/he.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/is.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/it.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/ja.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/ko.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/nb.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/nl.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/pl.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/pt_BR.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/pt_PT.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/ro.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/ru.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/sk.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/sl.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/sv.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/th.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/tr.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/uk.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/zh_CN.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app/Contents/Resources/zh_TW.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/SUModelTranslation.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/SUStatus.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ar.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ar.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ar.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ar.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ca.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/cs.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/cs.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/cs.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/cs.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/da.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/da.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/da.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/da.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/de.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/de.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/de.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/de.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/el.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/el.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/el.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/el.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/en.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/en.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/en.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/en.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/es.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/es.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/es.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/es.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/fi.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/fr.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/fr.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/fr.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/fr.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/fr_CA.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/fr_CA.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/fr_CA.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/fr_CA.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/he.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/is.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/is.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/is.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/is.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/it.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/it.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/it.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/it.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ja.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ja.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ja.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ja.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ko.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ko.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ko.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ko.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/nb.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/nb.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/nb.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/nb.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/nl.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/nl.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/nl.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/nl.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/pl.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/pl.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/pl.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/pl.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/pt.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/pt.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/pt.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/pt.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/pt_BR.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/pt_BR.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/pt_BR.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/pt_BR.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/pt_PT.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/pt_PT.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/pt_PT.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/pt_PT.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ro.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ro.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ro.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ro.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ru.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ru.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ru.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/ru.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/sk.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/sk.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/sk.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/sk.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/sl.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/sl.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/sl.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/sl.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/sv.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/sv.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/sv.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/sv.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/th.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/th.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/th.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/th.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/tr.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/tr.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/tr.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/tr.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/uk.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/uk.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/uk.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/uk.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/zh_CN.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/zh_CN.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/zh_CN.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/zh_CN.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/zh_TW.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/zh_TW.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/zh_TW.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Resources/zh_TW.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Sparkle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/MacOS/Autoupdate" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/PkgInfo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/AppIcon.icns" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/SUStatus.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ar.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ca.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/cs.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/da.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/de.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/el.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/en.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/es.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/fi.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/fr.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/he.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/is.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/it.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ja.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ko.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/nb.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/nl.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/pl.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/pt_BR.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/pt_PT.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ro.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ru.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/sk.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/sl.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/sv.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/th.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/tr.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/uk.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/zh_CN.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/zh_TW.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/SUModelTranslation.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/SUStatus.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ar.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ar.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ar.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ar.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ca.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/cs.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/cs.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/cs.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/cs.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/da.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/da.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/da.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/da.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/de.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/de.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/de.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/de.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/el.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/el.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/el.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/el.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fi.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fr_CA.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fr_CA.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fr_CA.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fr_CA.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/he.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/is.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/is.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/is.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/is.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/it.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/it.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/it.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/it.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ja.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ja.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ja.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ja.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ko.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ko.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ko.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ko.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/nb.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/nb.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/nb.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/nb.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/nl.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/nl.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/nl.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/nl.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pl.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pl.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pl.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pl.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt_BR.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt_BR.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt_BR.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt_BR.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt_PT.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt_PT.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt_PT.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt_PT.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ro.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ro.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ro.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ro.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ru.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ru.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ru.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ru.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sk.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sk.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sk.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sk.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sl.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sl.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sl.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sl.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sv.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sv.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sv.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sv.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/th.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/th.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/th.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/th.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/tr.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/tr.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/tr.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/tr.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/uk.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/uk.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/uk.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/uk.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/zh_CN.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/zh_CN.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/zh_CN.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/zh_CN.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/zh_TW.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/zh_TW.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/zh_TW.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/zh_TW.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/Sparkle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/A/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/MacOS/Autoupdate" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/PkgInfo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/AppIcon.icns" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/SUStatus.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/ar.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/ca.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/cs.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/da.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/de.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/el.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/en.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/es.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/fi.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/fr.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/he.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/is.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/it.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/ja.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/ko.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/nb.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/nl.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/pl.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/pt_BR.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/pt_PT.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/ro.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/ru.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/sk.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/sl.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/sv.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/th.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/tr.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/uk.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/zh_CN.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app/Contents/Resources/zh_TW.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/SUModelTranslation.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/SUStatus.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ar.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ar.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ar.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ar.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ca.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/cs.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/cs.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/cs.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/cs.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/da.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/da.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/da.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/da.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/de.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/de.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/de.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/de.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/el.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/el.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/el.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/el.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/en.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/en.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/en.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/en.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/es.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/es.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/es.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/es.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/fi.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/fr.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/fr.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/fr.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/fr.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/fr_CA.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/fr_CA.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/fr_CA.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/fr_CA.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/he.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/is.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/is.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/is.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/is.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/it.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/it.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/it.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/it.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ja.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ja.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ja.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ja.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ko.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ko.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ko.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ko.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/nb.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/nb.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/nb.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/nb.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/nl.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/nl.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/nl.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/nl.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/pl.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/pl.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/pl.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/pl.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/pt.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/pt.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/pt.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/pt.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/pt_BR.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/pt_BR.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/pt_BR.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/pt_BR.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/pt_PT.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/pt_PT.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/pt_PT.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/pt_PT.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ro.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ro.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ro.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ro.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ru.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ru.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ru.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/ru.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/sk.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/sk.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/sk.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/sk.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/sl.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/sl.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/sl.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/sl.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/sv.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/sv.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/sv.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/sv.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/th.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/th.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/th.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/th.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/tr.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/tr.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/tr.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/tr.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/uk.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/uk.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/uk.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/uk.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/zh_CN.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/zh_CN.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/zh_CN.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/zh_CN.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/zh_TW.lproj/SUAutomaticUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/zh_TW.lproj/SUUpdateAlert.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/zh_TW.lproj/SUUpdatePermissionPrompt.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/zh_TW.lproj/Sparkle.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Sparkle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Frameworks/Sparkle.framework/Versions/Current/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/MacOS/duet" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/PkgInfo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/30pin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/AppIcon.icns" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/ApplePencilDark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/Assets.car" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/Base.lproj/MainMenu.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/Defaults.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/DisplayProductID-0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/Duet Performance Helper" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/DuetDisplay.kext/Contents/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/DuetDisplay.kext/Contents/MacOS/DuetDisplay" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/DuetDisplay.kext/Contents/Resources/es.lproj/InfoPlist.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/DuetDisplay.kext/Contents/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/DuetMenu.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/License" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/Lightning.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/MacEULA.rtf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/Panel.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/checkmark_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/da.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/de.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/en.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/es.lproj/InfoPlist.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/es.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/es.lproj/MainMenu.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/extra_file" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/fi.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/fr.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/iPad-Icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/iPad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/iPhone-Icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/it.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/ja.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/ko.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/nl.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/pt.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/ru.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/sv.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/zh-Hans.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/Resources/zh-Hant.lproj/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/courses/duet.app/Contents/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/Movie_on_23-10-2016_at_13.09.mov" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/Movie_on_23-10-2016_at_13.09_F2zgQY9.mov" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/Movie_on_23-10-2016_at_13.09_WqF38t9.mov" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/Movie_on_23-10-2016_at_13.09_oEsBYkH.mov" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/Movie_on_23-10-2016_at_13.09_xiy3sxa.mov" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_CeUQIGo.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_CgC7koQ.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_DfxWM7L.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_FaF3QXP.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_HMCl1HX.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_HTU0kWu.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_K6DFGjK.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_LtPA3yB.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_M49F5xU.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_V7Hu9Fr.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_ZujewyC.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_gPrwnwO.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_i8Z7ReH.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_kZ3h3Q9.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_oAL75in.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_oGNOCdF.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_pWXcZb3.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_uBWgLLk.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_xiJLmlz.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_yif9eJc.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/VfE_html5_z0tXk2c.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning_site/media/video1_HxXm7Ul.mp4" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/Procfile" afterPath="$PROJECT_DIR$/learning_site/Procfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/assets/css/layout.css" afterPath="$PROJECT_DIR$/learning_site/assets/css/layout.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/courses/admin.py" afterPath="$PROJECT_DIR$/learning_site/courses/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/courses/forms.py" afterPath="$PROJECT_DIR$/learning_site/courses/forms.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/courses/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/learning_site/courses/migrations/0001_initial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/courses/models.py" afterPath="$PROJECT_DIR$/learning_site/courses/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/courses/static/courses/css/courses.css" afterPath="$PROJECT_DIR$/learning_site/courses/static/courses/css/courses.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/courses/templates/courses/app.js" afterPath="$PROJECT_DIR$/learning_site/courses/templates/courses/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/courses/templates/courses/query_detail.html" afterPath="$PROJECT_DIR$/learning_site/courses/templates/courses/query_detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/courses/templates/courses/query_form.html" afterPath="$PROJECT_DIR$/learning_site/courses/templates/courses/query_form.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/courses/templates/courses/quiz_detail.html" afterPath="$PROJECT_DIR$/learning_site/courses/templates/courses/quiz_detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/courses/templates/courses/quiz_form.html" afterPath="$PROJECT_DIR$/learning_site/courses/templates/courses/quiz_form.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/courses/templates/courses/text_details.html" afterPath="$PROJECT_DIR$/learning_site/courses/templates/courses/text_details.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/courses/urls.py" afterPath="$PROJECT_DIR$/learning_site/courses/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/courses/views.py" afterPath="$PROJECT_DIR$/learning_site/courses/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/learning_site/settings.py" afterPath="$PROJECT_DIR$/learning_site/learning_site/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/learning_site/urls.py" afterPath="$PROJECT_DIR$/learning_site/learning_site/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/learning_site/views.py" afterPath="$PROJECT_DIR$/learning_site/learning_site/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/requirements.txt" afterPath="$PROJECT_DIR$/learning_site/requirements.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/templates/home.html" afterPath="$PROJECT_DIR$/learning_site/templates/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning_site/templates/layout.html" afterPath="$PROJECT_DIR$/learning_site/templates/layout.html" />
     </list>
     <ignored path="Django Feedback Project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -589,101 +22,7 @@
     <favorites_list name="Django Feedback Project" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="quiz_detail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning_site/courses/templates/courses/quiz_detail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-315">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="query_form.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning_site/courses/templates/courses/query_form.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="70" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="77" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learning_site/templates/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="142" column="107" selection-start-line="142" selection-start-column="107" selection-end-line="142" selection-end-column="107" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="image1.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning_site/courses/static/images/image1.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="image.jpeg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning_site/courses/static/images/image.jpeg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="image.jpeg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning_site/templates/image.jpeg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning_site/assets/css/layout.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="83" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="text_details.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning_site/courses/templates/courses/text_details.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-298">
-              <caret line="228" column="50" selection-start-line="228" selection-start-column="50" selection-end-line="228" selection-end-column="50" />
-              <folding>
-                <element signature="e#4377#4383#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning_site/learning_site/wsgi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning_site/templates/layout.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -784,280 +123,38 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
+              <option name="myItemId" value="DjangoProjectCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 2.7.10 (/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
+              <option name="myItemId" value="DjangoProjectCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
+              <option name="myItemId" value="DjangoProjectCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
+              <option name="myItemId" value="DjangoProjectCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
+              <option name="myItemId" value="DjangoProjectCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="learning_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="courses" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="courses" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templatetags" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="courses" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="courses" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="courses" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="courses" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="courses" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="migrations" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chartjs-color" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Django Feedback Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1282,16 +379,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="833" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="833" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14861111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14861111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28403142" sideWeight="0.36805555" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28403142" sideWeight="0.3715278" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32824427" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28403142" sideWeight="0.6319444" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28403142" sideWeight="0.6284722" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1383,20 +480,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_site/templates/jquery-1.12.4.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1002" selection-start-line="4" selection-start-column="1002" selection-end-line="4" selection-end-column="1002" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning_site/templates/jquery-1.12.4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164730">
-          <caret line="10982" column="28" selection-start-line="10982" selection-start-column="28" selection-end-line="10982" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_site/templates/jquery-1.12.4.min.js" />
+    <entry file="file://$PROJECT_DIR$/learning_site/templates/jquery-1.12.4.js" />
     <entry file="file://$PROJECT_DIR$/learning_site/courses/templates/courses/layout.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1468,20 +553,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_site/courses/templates/courses/answer_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning_site/courses/templates/courses/question_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_site/courses/templates/courses/answer_form.html" />
+    <entry file="file://$PROJECT_DIR$/learning_site/courses/templates/courses/question_form.html" />
     <entry file="file://$PROJECT_DIR$/learning_site/courses/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1524,26 +597,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_site/courses/templates/courses/test_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning_site/courses/templates/courses/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_site/courses/templates/courses/test_form.html" />
+    <entry file="file://$PROJECT_DIR$/learning_site/courses/templates/courses/test.html" />
     <entry file="file://$PROJECT_DIR$/learning_site/courses/templates/courses/text_detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="19" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1551,7 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1559,9 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-532">
           <caret line="85" column="31" selection-start-line="85" selection-start-column="31" selection-end-line="85" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1569,7 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1577,9 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2025">
           <caret line="73" column="93" selection-start-line="73" selection-start-column="93" selection-end-line="73" selection-end-column="93" />
-          <folding>
-            <element signature="e#0#54#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1587,7 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="95" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1595,7 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1603,7 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1611,7 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="446">
           <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="83" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1619,7 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="70" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="77" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1627,30 +673,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_site/courses/static/images/image.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning_site/templates/image.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning_site/courses/static/images/image1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_site/courses/static/images/image.jpeg" />
+    <entry file="file://$PROJECT_DIR$/learning_site/templates/image.jpeg" />
+    <entry file="file://$PROJECT_DIR$/learning_site/courses/static/images/image1.jpg" />
     <entry file="file://$PROJECT_DIR$/learning_site/courses/templates/courses/quiz_detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-315">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1658,9 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-298">
           <caret line="228" column="50" selection-start-line="228" selection-start-column="50" selection-end-line="228" selection-end-column="50" />
-          <folding>
-            <element signature="e#4377#4383#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1668,7 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="142" column="107" selection-start-line="142" selection-start-column="107" selection-end-line="142" selection-end-column="107" />
-          <folding />
         </state>
       </provider>
     </entry>
